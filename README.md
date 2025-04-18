@@ -6,9 +6,9 @@ This is a public learning archive as I complete the **Google Data Analytics Prof
 
 ## 📦 Weekly Progress
 
-|### ✅ Course Completed:
+### ✅ Course Completed:
 **Foundations: Data, Data, Everywhere**
-🗓 Date: [Insert today's date]
+🗓 Date: 18 Apr, 2025
 **Key takeaways:**
 - Data is most powerful when it helps ask better questions — not just provide answers.
 - The data life cycle is deeply human: it involves stakeholders, ethics, communication, and action.
