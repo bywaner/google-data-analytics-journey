@@ -15,6 +15,22 @@ This is a public learning archive as I complete the **Google Data Analytics Prof
 - “Data analysis is the process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information.”
 Up next: Course 2 – *Ask Questions to Make Data-Driven Decisions*
 
+### 📘 Course Started:
+**Ask Questions to Make Data-Driven Decisions**
+
+🗓 Enrolled: 20 Apr, 2025
+
+**Initial thoughts:**
+- This course focuses on the importance of clearly defined, measurable, and actionable questions before starting any analysis.
+- Reinforces the “Ask” phase of the data analysis process.
+- Emphasis on scope, stakeholder alignment, and SMART questioning.
+
+Tracking progress as I go. Up next:  
+✔️ Types of analytical thinking  
+✔️ Stakeholder context  
+✔️ SMART questions framework
+
+
 | Week | Focus | Notes |
 |------|-------|-------|
 | Week 1 | Foundations: What is data analytics? | Key takeaway: It's about clarity, not complexity. |
