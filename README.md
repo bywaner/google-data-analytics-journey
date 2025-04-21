@@ -14,7 +14,6 @@ This is a public learning archive as I complete the **Google Data Analytics Prof
 - Data is most powerful when it helps ask better questions — not just provide answers.
 - The data life cycle is deeply human: it involves stakeholders, ethics, communication, and action.
 - “Data analysis is the process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information.”
-Up next: Course 2 – *Ask Questions to Make Data-Driven Decisions*
 
 **Ask Questions to Make Data-Driven Decisions**
 🗓 Completed: 22 Apr, 2025
