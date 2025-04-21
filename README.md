@@ -7,7 +7,7 @@ This is a public learning archive as I complete the **Google Data Analytics Prof
 ## 📦 Weekly Progress
 
 ### ✅ Course Completed:
-**Foundations: Data, Data, Everywhere**
+**1️⃣Foundations: Data, Data, Everywhere**
 🗓 Completed: 18 Apr, 2025
 
 **Key takeaways:**
@@ -15,7 +15,7 @@ This is a public learning archive as I complete the **Google Data Analytics Prof
 - The data life cycle is deeply human: it involves stakeholders, ethics, communication, and action.
 - “Data analysis is the process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information.”
 
-**Ask Questions to Make Data-Driven Decisions**
+**2️⃣Ask Questions to Make Data-Driven Decisions**
 🗓 Completed: 22 Apr, 2025
 
 **Key takeaways:**
