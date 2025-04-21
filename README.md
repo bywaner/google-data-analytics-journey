@@ -8,34 +8,38 @@ This is a public learning archive as I complete the **Google Data Analytics Prof
 
 ### ✅ Course Completed:
 **Foundations: Data, Data, Everywhere**
-🗓 Date: 18 Apr, 2025
+🗓 Completed: 18 Apr, 2025
 **Key takeaways:**
 - Data is most powerful when it helps ask better questions — not just provide answers.
 - The data life cycle is deeply human: it involves stakeholders, ethics, communication, and action.
 - “Data analysis is the process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information.”
 Up next: Course 2 – *Ask Questions to Make Data-Driven Decisions*
 
-### 📘 Course Started:
 **Ask Questions to Make Data-Driven Decisions**
+🗓 Completed: 22 Apr, 2025
+**Key takeaways:**
+- Asking SMART questions (Specific, Measurable, Action-oriented, Relevant, Time-bound) creates clarity before analysis begins.
+- Stakeholder alignment is as important as the technical side of data.
+- Analytical thinking = combining strategy, curiosity, and structure.
 
-🗓 Enrolled: 20 Apr, 2025
-
-**Initial thoughts:**
-- This course focuses on the importance of clearly defined, measurable, and actionable questions before starting any analysis.
-- Reinforces the “Ask” phase of the data analysis process.
-- Emphasis on scope, stakeholder alignment, and SMART questioning.
+Next up: **Prepare Data for Exploration**
 
 Tracking progress as I go. Up next:  
 ✔️ Types of analytical thinking  
 ✔️ Stakeholder context  
 ✔️ SMART questions framework
 
-
-| Date | Focus | Notes |
+| Date | Focus | Stats |
 |------|-------|-------|
-| 18 Apr 2025 | Foundations: Data, Data, Everywhere | Key takeaway: It's about clarity, not complexity. |
-| 20 Apr 2025 | Ask Questions to Make Data-Driven Decisions | TBA |
-| ... | ... | ... |
+| 18 Apr 2025 | Foundations: Data, Data, Everywhere | ✅ Completed |
+| 20 Apr 2025 | Ask Questions to Make Data-Driven Decisions | ✅ Completed |
+| TBC | Prepare Data for Exploration | 🔜 Next |
+| TBC | Process Data from Dirty to Clean | ⏳ |
+| TBC | Prepare Data for Exploration | ⏳ |
+| TBC | Analyze Data to Answer Questions | ⏳ |
+| TBC | Share Data Through the Art of Visualization | ⏳ |
+| TBC | Data Analysis with R Programming | ⏳ |
+| TBC | Capstone: Complete a Case Study | ⏳ |
 
 ## 💻 Tools I'll Be Learning
 - Google Sheets
