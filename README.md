@@ -31,11 +31,10 @@ Tracking progress as I go. Up next:
 ✔️ SMART questions framework
 
 
-| Week | Focus | Notes |
+| Date | Focus | Notes |
 |------|-------|-------|
-| Week 1 | Foundations: What is data analytics? | Key takeaway: It's about clarity, not complexity. |
-| Week 2 | Ask Phase: Problem definition | TBA |
-| Week 3 | Prepare Phase: Data types + structure | TBA |
+| 18 Apr 2025 | Foundations: Data, Data, Everywhere | Key takeaway: It's about clarity, not complexity. |
+| 20 Apr 2025 | Ask Questions to Make Data-Driven Decisions | TBA |
 | ... | ... | ... |
 
 ## 💻 Tools I'll Be Learning
