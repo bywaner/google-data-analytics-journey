@@ -9,6 +9,7 @@ This is a public learning archive as I complete the **Google Data Analytics Prof
 ### ✅ Course Completed:
 **Foundations: Data, Data, Everywhere**
 🗓 Completed: 18 Apr, 2025
+
 **Key takeaways:**
 - Data is most powerful when it helps ask better questions — not just provide answers.
 - The data life cycle is deeply human: it involves stakeholders, ethics, communication, and action.
@@ -17,6 +18,7 @@ Up next: Course 2 – *Ask Questions to Make Data-Driven Decisions*
 
 **Ask Questions to Make Data-Driven Decisions**
 🗓 Completed: 22 Apr, 2025
+
 **Key takeaways:**
 - Asking SMART questions (Specific, Measurable, Action-oriented, Relevant, Time-bound) creates clarity before analysis begins.
 - Stakeholder alignment is as important as the technical side of data.
