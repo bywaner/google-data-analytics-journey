@@ -6,6 +6,8 @@ This is a public learning archive as I complete the **Google Data Analytics Prof
 
 ## 📦 Weekly Progress
 
+<progress value="3" max="8"></progress>  3 of 8 courses completed
+
 ### ✅ Course Completed:
 **1️⃣Foundations: Data, Data, Everywhere**
 🗓 Completed: 18 Apr, 2025
