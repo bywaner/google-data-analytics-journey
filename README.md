@@ -23,7 +23,17 @@ This is a public learning archive as I complete the **Google Data Analytics Prof
 - Stakeholder alignment is as important as the technical side of data.
 - Analytical thinking = combining strategy, curiosity, and structure.
 
-Next up: **Prepare Data for Exploration**
+**Prepare Data for Exploration**
+🗓 Completed: 03 May, 2025
+
+**Key concepts covered:**
+- Types of data (structured, unstructured, semi-structured)
+- Data formats (CSV, databases, big data)
+- Understanding bias, credibility, and data integrity
+- How to assess data sources before analysis begins
+
+Next up: **Course 4 – Process Data from Dirty to Clean**
+
 
 Tracking progress as I go. Up next:  
 ✔️ Types of analytical thinking  
@@ -34,8 +44,8 @@ Tracking progress as I go. Up next:
 |------|-------|-------|
 | 18 Apr 2025 | Foundations: Data, Data, Everywhere | ✅ Completed |
 | 20 Apr 2025 | Ask Questions to Make Data-Driven Decisions | ✅ Completed |
-| TBC | Prepare Data for Exploration | 🔜 Next |
-| TBC | Process Data from Dirty to Clean | ⏳ |
+| 03 May 2025 | Prepare Data for Exploration | ✅ Completed |
+| TBC | Process Data from Dirty to Clean | 🔜 Next |
 | TBC | Prepare Data for Exploration | ⏳ |
 | TBC | Analyze Data to Answer Questions | ⏳ |
 | TBC | Share Data Through the Art of Visualization | ⏳ |
