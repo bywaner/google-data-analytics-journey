@@ -48,6 +48,7 @@ Tracking progress as I go. Up next:
 - R (intro)
 - Tableau / Data Studio
 - Analytical frameworks (e.g., SMART, 5Ws)
+- Kaggle
 
 ---
 
