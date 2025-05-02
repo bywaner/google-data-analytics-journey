@@ -23,7 +23,7 @@ This is a public learning archive as I complete the **Google Data Analytics Prof
 - Stakeholder alignment is as important as the technical side of data.
 - Analytical thinking = combining strategy, curiosity, and structure.
 
-**Prepare Data for Exploration**
+**3️⃣Prepare Data for Exploration**
 🗓 Completed: 03 May, 2025
 
 **Key concepts covered:**
